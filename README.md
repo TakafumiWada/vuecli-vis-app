@@ -1,4 +1,4 @@
-# vue-tumugi-app
+# vuecli-vis-app
 
 ## Project setup
 ```
